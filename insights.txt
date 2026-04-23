@@ -1,0 +1,23 @@
+Insight 1 — Revenue peaked in 2019 then fell sharply
+
+Total revenue peaked at $15M in 2019 before declining significantly in 2019-20 due to Global Semiconductor Slump(2019) and supply chain disruptions resulting in high inventory, weak demand, supply shortages and production delays trade tension, and in 20–2021 coinciding with the COVID-19 pandemic. In-store revenue was most severely impacted while online revenue showed relative resilience. 
+Recommendation: Accelerate digital channel investment to reduce dependence on physical store revenue.
+
+Insight 2 — Computers dominate but check the margin
+
+Computers is the highest revenue category at $19.1M — nearly 2 times the second category (Home Appliances at $10.7M). However gross profit is proportionally lower, suggesting higher costs or discounting in this category. 
+Recommendation: Review pricing strategy for computer products to improve contribution margin.
+
+Insight 3 — Delivery efficiency improved dramatically
+
+Average delivery time improved from 7.3 days in 2016 to 3.8 days in 2021 — a 48% improvement over 5 years. This indicates significant logistics optimization. Recommendation: Maintain this improvement trajectory and use fast delivery as a competitive differentiator in marketing.
+
+Insight 4 — In-store dominates but online is growing
+
+In-store revenue ($43.92M) accounts for 79.35% of total revenue vs online ($11.43M) at 20.65%. However online orders (5,580) represent 21.2% of total orders — suggesting online customers have similar order values to in-store. 
+Recommendation: Scale online marketing spend as the channel shows strong unit economics.
+
+Insight 5 — Canada stores outperform USA on efficiency
+
+Despite of USA generating the highest absolute revenue ($30M+) and having highest customers, Canadian stores generate higher revenue per square meter — meaning Canadian stores are more space-efficient. 
+Recommendation: Study Canadian store formats and apply successful elements to USA stores.
