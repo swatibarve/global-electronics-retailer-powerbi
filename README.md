@@ -34,7 +34,7 @@ Customers, Stores, Exchange Rates (dimensions)
 5. Canada stores outperform USA on revenue per sq.m.
 
 ## Live Dashboard
-https://app.powerbi.com/groups/me/reports/36246363-25fa-4754-befc-6f981f687819/502998ebf956fc252a61?experience=power-bi
+https://app.powerbi.com/links/isIw9IJleF?ctid=0d77b7c5-e242-4138-ac4f-84df54febf02&pbi_source=linkShare&bookmarkGuid=df76ca89-ffad-4bf0-8a13-c57b49b874ce
 
 ## Author
 Swati Barve | M.Econ | Data & Financial Analyst
